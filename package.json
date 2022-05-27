@@ -1,7 +1,7 @@
 {
   "name": "uniswap-v3-subgraph",
   "version": "1.0.0",
-  "repository": "https://github.com/graphprotocol/uniswap-v3-subgraph",
+  "repository": "https://github.com/joaquin-hernandez/testv3Alfajores",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "codegen": "graph codegen --output-dir src/types/",
