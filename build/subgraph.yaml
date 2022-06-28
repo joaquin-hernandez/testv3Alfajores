@@ -10,9 +10,9 @@ dataSources:
     name: Factory
     network: celo-alfajores
     source:
-      address: "0xAbfC38Ad3BE3618f13dDb29e353047CE3737c2Eb"
+      address: "0xFABdaD603E6bdc8Bc7222B2DB7BcDB84e5a0A385"
       abi: Factory
-      startBlock: 11303481
+      startBlock: 11745266
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -39,9 +39,9 @@ dataSources:
     name: NonfungiblePositionManager
     network: celo-alfajores
     source:
-      address: "0x25ef48cfFc49db7594EcB650843848cC7Aea3794"
+      address: "0x6535D8Fb26B25D881598B79ec6c6EF2b59e98c47"
       abi: NonfungiblePositionManager
-      startBlock: 11303514
+      startBlock: 11745298
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
